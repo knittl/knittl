@@ -1,11 +1,11 @@
 Good afternoon!
 
-I'm knittl, I'm a Linux enthusiast.
+I'm knittl, I'm a GNU+Linux enthusiast 🐃+🐧.
 
 You might be interested in my [dotfiles](https://github.com/knittl/.files)
 or my work-in-progress [DDD annotations](https://github.com/knittl/ddd-annotations) project for Java.
 
-You can also find me on [Stack Overflow](https://stackoverflow.com/users/112968/knittl) or browse workshops of my local Linux User Group [fhLUG](https://fhLUG.at).
+You can also find me on [Stack Overflow](https://stackoverflow.com/users/112968/knittl), or browse workshops of my local Linux User Group [fhLUG](https://fhLUG.at).
 
 <!--
 **knittl/knittl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
